@@ -1,4 +1,3 @@
 # contact
 
-<h3>GitHub</h3>
-<img src="./img/github.png" width="50" height="50"> https://github.com/soomae1
+<h4><img src="./img/github.png" width="25" height="25"> GitHub https://github.com/soomae1</h4>
