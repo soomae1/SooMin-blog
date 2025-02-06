@@ -1,3 +1,11 @@
 # contact
 
-<h4><img src="./img/github.png" width="25" height="25"> GitHub https://github.com/soomae1</h4>
+
+<h5>저에 대해 궁금한 점이 있으시면 아래 주소로 연락 주세요😃</h5>
+
+<br>
+
+| 구분 | 주소 | 
+| ---------- | ---------------------- |
+| ✨GitHub | https://github.com/soomae1 | 
+| ✉️E-mail | pepsisoomae@gmail.com | 
