@@ -4,7 +4,7 @@
 
 <img src="./img/개발자 김수민 캐릭터.png" width="300" height="280" align="left">
 
-<div align="center"><h3>introduce</h3>
+<h3>introduce</h3>
 
 <h5>안녕하세요🖐<br>
 신입 백엔드 개발자 김수민입니다🙋‍♀️<br>
@@ -15,5 +15,4 @@
 📗 SpringBoot<br>
 📘 MySQL<br>
 🔖 GitHub
-</div>
 
